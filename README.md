@@ -2,8 +2,7 @@ A  backtest of three different sp500 trading strategies based on 200d MA and int
 
 Leverages data from WSJ.
 
-Equity curves:
-<img src="./eq_curves.png">
+![Equity curves](eq_curves.png)
 
 Summary Stats by Strategy - the 25% strategy wins, it not only produces the smaller loss over the 4y period, but its return profile is less volatile as well.
 
